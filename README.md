@@ -35,13 +35,6 @@ A clean, animated, and interactive **Tic Tac Toe** game using **HTML, CSS, and J
 - CSS3 (Flexbox + Grid)
 - Vanilla JavaScript
 
-## 📌 To Improve
-
-- Add sound effects
-- Add single-player mode with AI
-- Store player scores
-- Responsive design for mobile
-
 ---
 
 > **Made for learning and fun.**
