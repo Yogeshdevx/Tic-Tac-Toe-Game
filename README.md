@@ -40,4 +40,4 @@ A clean, animated, and interactive **Tic Tac Toe** game using **HTML, CSS, and J
 > **Made for learning and fun.**
 
 
-> By DebugWithYogesh
+> By Yogesh
